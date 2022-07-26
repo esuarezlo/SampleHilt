@@ -4,6 +4,8 @@ import javax.inject.Inject;
 
 
 public class MathOperation {
+
+
     @Inject
     MathOperation() {
 
