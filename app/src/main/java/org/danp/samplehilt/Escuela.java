@@ -2,7 +2,7 @@ package org.danp.samplehilt;
 
 import javax.inject.Inject;
 
-
+//assisted injection
 public class Escuela {
 
     //@Inject

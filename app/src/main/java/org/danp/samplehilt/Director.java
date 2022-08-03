@@ -7,7 +7,6 @@ public class Director {
 
     @Inject
     public Director(){
-
     }
 
     public String getName(){
